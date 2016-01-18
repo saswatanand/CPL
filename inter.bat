@@ -1,0 +1,1 @@
+ghci -fglasgow-exts -package lang -fallow-overlapping-instances -fallow-undecidable-instances -iIndicators -iBuildin_Indicators -iPatterns -iBuildin_Patterns CPL

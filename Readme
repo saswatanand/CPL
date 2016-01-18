@@ -1,0 +1,33 @@
+To invoke the system without GUI
+================================
+You can either click the inter.bat file or 
+at DOS command window, type 
+	inter
+
+To test technical indicator without GUI
+=======================================
+type
+	evalDisplay <technical_indicator> <companyname>
+for example,
+	evalDisplay (expMovingAvg 5 ((low+high)/2)) "asa.n.sum"
+
+To search for pattern instances without GUI
+===========================================
+For one company, type 
+	doComp <pattern> <companyname>
+for example,
+	doComp hill "asa.n.sum"
+
+For multiple companies, type
+	allComps <pattern> "coms.txt"
+where the file "coms.txt" contains all the companies you are interested in.
+
+---------------------------------------------------------------
+To invoke the system with GUI
+=============================
+You can either click the CPL.bat file or
+at DOS command window, type
+	java CPL
+
+I feel the current GUI is reasonably friendly - no further explanation is needed. :-)
+But feel free to email me if you have any question.

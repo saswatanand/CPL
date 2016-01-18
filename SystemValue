@@ -1,0 +1,7 @@
+MaxBar:2600
+MaxInd:5
+BackgroundColor:black
+LabelColor:orange
+BarColor:green
+PatternColor:blue
+IndicatorColor:blue,yellow,red,pink,orange
