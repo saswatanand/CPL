@@ -1,3 +1,8 @@
+
+I developed this code as part of my masters thesis (http://www.cs.stanford.edu/~saswat/research/one.pdf). 
+A succinct description of the work appears this paper: http://www.comp.nus.edu.sg/%7Ekhoosc/papers/icfp2001.ps
+The initial version of this code was enhanced and extended by somebody in our group. I dont know who, thanks to him/her!
+
 To invoke the system without GUI
 ================================
 You can either click the inter.bat file or 
